@@ -11,5 +11,5 @@ type = str(input("Enter Hash Type: "))
 print()
 
 for i in itertools.count(1,1):
-    password = str(input(f"Enter Pasword#{make}: "))
+    password = str(input(f"Enter Pasword#{i}: "))
     maker = os.system(f'echo -n "{password}" | {type} >> HashFile_{type}.txt')
