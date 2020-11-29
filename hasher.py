@@ -3,6 +3,16 @@
 import os
 import itertools
 from colorama import Fore
+print()
+print(Fore.CYAN)
+print("#############################################################")
+print("#                                                           #")
+print("#  ░█▀▄▀█ █▀▀█ █▀▀▄ 　 ░█─░█ █▀▀█ █▀▀ █──█ █▀▀ █▀▀█         #")
+print("#  ░█░█░█ █▄▄█ █──█ 　 ░█▀▀█ █▄▄█ ▀▀█ █▀▀█ █▀▀ █▄▄▀         #")
+print("#  ░█──░█ ▀──▀ ▀▀▀─ 　 ░█─░█ ▀──▀ ▀▀▀ ▀──▀ ▀▀▀ ▀─▀▀         #")
+print("#                                                           #")
+print("#############################################################")
+print()
 print(Fore.GREEN)
 print()
 print("Types of hash codes: md5sum, sha256sum, etc.")
