@@ -1,3 +1,3 @@
-#!/usr/bin/sh
+#!/bin/bash
 
-./hasher.py 
+MadHasher.py
