@@ -1,3 +1,3 @@
 #!/bin/bash
 
-MadHasher.py
+./MadHasher.py
